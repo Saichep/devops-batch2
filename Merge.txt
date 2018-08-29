@@ -1,5 +1,5 @@
 
-This is master branch in linux 
+This is master branch linux 
 i would like to inflict a merge conflict 
 and then resolve it, 
 so that i would understand the concept of merge conflict.
