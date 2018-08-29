@@ -1,0 +1,4 @@
+This is master branch, 
+i would like to inflict a merge conflict 
+and then resolve it, 
+so that i would understand the concept. 
