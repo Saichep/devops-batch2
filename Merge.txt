@@ -1,7 +1,4 @@
-<<<<<<< .merge_file_TwGghz
-=======
 
->>>>>>> .merge_file_RV8I5y
 This is master branch linux 
 i would like to inflict a merge conflict 
 and then resolve it, 
