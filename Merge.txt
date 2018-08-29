@@ -1,5 +1,6 @@
-This is master branch1, 
+
+This is master branch in linux 
 i would like to inflict a merge conflict 
 and then resolve it, 
-so that i would understand the concep of merge conflict.
+so that i would understand the concept of merge conflict.
  
